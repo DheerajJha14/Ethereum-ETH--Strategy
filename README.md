@@ -57,6 +57,8 @@ The script also includes **train/test date segmentation**, making it easier to v
 
 ## 📊 Example Chart
 <img width="1780" height="812" alt="image" src="https://github.com/user-attachments/assets/4147c211-ae58-437d-9093-e41fd9a16650" />
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/b9a1198c-c0dd-48ed-9ca7-fac25fc94f41" />
+
 
 
 ---
