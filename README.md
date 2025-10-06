@@ -29,7 +29,7 @@ The script also includes **train/test date segmentation**, making it easier to v
 1. Open [TradingView](https://www.tradingview.com/).
 2. Go to **Pine Editor** and paste the contents of `BB_EMA_ETHUSDT_4h.pine`.
 3. Save and add it to your chart.
-4. Select the **4H timeframe** and **ETH/USDT** pair.
+4. Select the **4H or 1min timeframe** and **ETH/USDT** pair.
 5. Adjust the input parameters (EMA length, BB length, multiplier, train/test dates) as needed.
 6. Choose the segment to backtest: `Training`, `Testing`, or `All`.
 
@@ -56,7 +56,8 @@ The script also includes **train/test date segmentation**, making it easier to v
 ---
 
 ## 📊 Example Chart
-(Add a screenshot of your TradingView chart with the strategy applied here)
+<img width="1780" height="812" alt="image" src="https://github.com/user-attachments/assets/4147c211-ae58-437d-9093-e41fd9a16650" />
+
 
 ---
 
