@@ -55,6 +55,21 @@ The script also includes **train/test date segmentation**, making it easier to v
 
 ---
 
+## 📊 Performance Metrics(for 1 week Data)
+
+| Metric                 | Value |
+|------------------------|-------|
+| Net Profit (USDT)       |  96.17     |
+| Net Profit (%)          |  9.62    |
+| Sharpe Ratio            |  1.239     |
+| Sortino Ratio           |  37.415  |
+| Profit Factor           |  2.349     |
+| Max Drawdown (USDT)     |  8.47     |
+| Max Drawdown (%)        |  0.78  |
+| Margin Calls            |    0   |
+
+
+
 ## 📊 Example Chart
 <img width="1780" height="812" alt="image" src="https://github.com/user-attachments/assets/4147c211-ae58-437d-9093-e41fd9a16650" />
 <img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/b9a1198c-c0dd-48ed-9ca7-fac25fc94f41" />
